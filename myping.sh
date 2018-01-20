@@ -40,6 +40,7 @@ funct_Linux()
 
 NARG=$#
 IP=$1
+echo "Hello"
 
 {
         funct_check_params 

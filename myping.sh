@@ -43,6 +43,7 @@ IP=$1
 echo "Hello"
 echo "World"
 echo "Changing directly on GitHub"
+echo "Changing locally"
 
 {
         funct_check_params 
